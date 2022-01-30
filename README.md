@@ -1,6 +1,3 @@
-# CodePath_Spring22
-Cybersecurity - Spring 2022
-
 # VirtualBox and Kali
 
 **Homework Instructions**: 
