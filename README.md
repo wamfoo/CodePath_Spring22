@@ -70,3 +70,5 @@ by simply changing the current ID they are viewing in the URL.
 ## Notes
 
 Describe any challenges encountered while doing the work
+Trying to get my HTML form to correctly work on Chrome seemed oddly difficult, it was initially working, but after
+the first couple of attempts, any reloading would not work, so I ended up switching to Firefox for certain targets.
